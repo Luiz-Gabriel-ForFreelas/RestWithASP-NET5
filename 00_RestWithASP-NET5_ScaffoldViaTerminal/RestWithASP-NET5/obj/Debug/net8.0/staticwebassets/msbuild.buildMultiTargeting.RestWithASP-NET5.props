@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RestWithASP-NET5.props" />
+</Project>
