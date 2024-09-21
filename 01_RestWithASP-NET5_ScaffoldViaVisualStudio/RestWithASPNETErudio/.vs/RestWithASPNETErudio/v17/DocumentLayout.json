@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\01_RestWithASP-NET5_ScaffoldViaVisualStudio\\RestWithASPNETErudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49EBB49C-DC51-474E-81F6-FD0DADA04FEF}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\01_restwithasp-net5_scaffoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EBB49C-DC51-474E-81F6-FD0DADA04FEF}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\01_RestWithASP-NET5_ScaffoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Program.cs",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\01_RestWithASP-NET5_ScaffoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:28:20.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
