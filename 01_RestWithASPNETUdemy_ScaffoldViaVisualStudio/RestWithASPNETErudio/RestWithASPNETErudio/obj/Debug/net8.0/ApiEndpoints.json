@@ -1,7 +1,107 @@
 [
   {
     "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Get",
+    "Method": "Division",
+    "RelativePath": "Calculator/div/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Mean",
+    "RelativePath": "Calculator/mean/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Multiplication",
+    "RelativePath": "Calculator/mul/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Square",
+    "RelativePath": "Calculator/sqrz/{number}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Subtraction",
+    "RelativePath": "Calculator/sub/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Sum",
     "RelativePath": "Calculator/sum/{firstNumber}/{secondNumber}",
     "HttpMethod": "GET",
     "IsController": true,
