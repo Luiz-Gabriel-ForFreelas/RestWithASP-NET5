@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\services\\ipersoninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\services\\ipersoninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\projetos\\restful udemy\\restwithasp-net5\\restwithasp-net5\\03_restwithaspnetudemy_sql\\restwithaspneterudio\\restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48427EEE-9909-4312-9049-D947F415035E}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\appsettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\appsettings.json",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\appsettings.json",
+              "RelativeToolTip": "RestWithASPNETErudio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T19:15:25.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:11:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:15:06.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonInterface.cs",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Services\\IPersonInterface.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Services\\IPersonInterface.cs",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Services\\IPersonInterface.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Services\\IPersonInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:11:52.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Program.cs",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:08:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Model\\Person.cs",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:04:29.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T00:35:11.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Projetos\\RESTFul Udemy\\RestWithASP-NET5\\RestWithASP-NET5\\03_RestWithASPNETUdemy_SQL\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:48:25.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
